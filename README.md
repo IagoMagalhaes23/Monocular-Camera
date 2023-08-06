@@ -1,6 +1,7 @@
 # Monocular Camera
 
 ## Introdução
+A estimativa de profundidade monocular é a tarefa de estimar o valor de profundidade (distância relativa à câmera) de cada pixel dada uma única imagem RGB (monocular). Essa tarefa desafiadora é um pré-requisito fundamental para determinar a compreensão da cena para aplicativos como reconstrução de cena 3D, direção autônoma e AR. Os métodos de última geração geralmente se enquadram em uma de duas categorias: projetar uma rede complexa que seja poderosa o suficiente para regredir diretamente o mapa de profundidade ou dividir a entrada em compartimentos ou janelas para reduzir a complexidade computacional.
 
 ## Projetos
 
