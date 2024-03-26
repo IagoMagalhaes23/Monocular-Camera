@@ -8,6 +8,10 @@ A estimativa de profundidade monocular é a tarefa de estimar o valor de profund
 Este projeto visa detectar faces com a biblioteca MediaPipe e através do modelo MiDaS v2.1 small que irá gerar uma imagem em profundidade será possível estimar a distância da face até a camera. No momento apenas o ponto central da face é utilizado para calcular a distância entre face e camera, porém, ao longo do desenvolvimento dos algoritmos pretende-se utilizar mais pontos.
 
 - Robô com Raspberry Pi 3
+
+## Links úteis
+- [overleaf do artigo](https://www.overleaf.com/9527958838cjhphftnzmgs#7e222a)
+
 ## Referências
 - https://levelup.gitconnected.com/real-time-distance-estimation-to-faces-with-a-monocular-web-cam-4f621821ca17
 - 
